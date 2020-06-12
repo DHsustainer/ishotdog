@@ -15,11 +15,11 @@ const notHotDog = async (GCKeyFile, projectId, image) => {
     projectId: projectId
   })
 
-  // Label detection with Vision API
+  // Label detection with Vision API.
   const [result] = await client.labelDetection(image)
   const labels = result.labelAnnotations
   labels.forEach(label => {
-    // Store the label list into object and replace spaces to underline
+    // Store the label list into object and replace spaces to underline.
     labelList.push(label.description.replace(/ /g, "_").toLowerCase())
   })
 

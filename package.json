@@ -1,8 +1,8 @@
 {
   "name": "ishotdog",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Hot Dog image recognition",
-  "main": "isHotDog.js",
+  "main": "index.js",
   "scripts": {},
   "keywords": [
     "Imagerecognition",

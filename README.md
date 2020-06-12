@@ -1,4 +1,4 @@
-![Image of ishotdog](https://storage.googleapis.com/artifacts.besweetstudio.appspot.com/NodeCo/banner.jpg)
+![Image of ishotdog](https://storage.googleapis.com/bsw-storage/nodeco/banner.jpg)
 # IsHotDog NPM Package
 
 ## Quickstart
